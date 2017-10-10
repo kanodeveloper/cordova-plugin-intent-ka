@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-intent",
+  "name": "cordova-plugin-intent-ka",
   "version": "0.1.3",
   "description": "Cordova Plugin for Android to access intent",
   "cordova": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/napolitano/cordova-plugin-intent"
+    "url": "https://github.com/napolitano/cordova-plugin-intent-ka"
   },
   "keywords": [
     "cordova",
